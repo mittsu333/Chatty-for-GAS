@@ -1,0 +1,11 @@
+dist/**/*
+
+node_modules/
+package-lock.json
+
+# clasp
+.clasp.json
+
+# OS metadata
+.DS_Store
+
